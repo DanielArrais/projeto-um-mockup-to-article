@@ -1,0 +1,16 @@
+Quais novas habilidades você aprendeu?
+	* Formatações especiais de texto com html 5;
+	* Buscar informações em fontes confiáveis: documentações oficiais;
+	* Aprendi a procurar a melhor forma de fazer algo;
+
+O que foi fácil?
+	* Quase tudo;
+
+O que foi difícil?
+	* Procurar tags que nunca tinha visto em um idioma diferente do meu e identificar alguns detalhes no mookup;
+
+Como você usou as estratégias de solução de problemas no primeiro projeto para superar os desafios até agora?
+	* Busquei no google e em documentações oficiais: 
+	  Buscava no google as tags que eu ainda não conhecia e 
+	  consultava elas posteriomente na documentação oficial 
+	  para verificar se o uso que eu ia fazer dela era o correto;

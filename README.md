@@ -1,1 +1,1 @@
-projeto-um-mockup-to-article
+Primeiro projeto do Programa Nanodegree Fundamentos Web Front-End
